@@ -1,0 +1,5 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="28" cy="28" r="27.85" transform="matrix(-1 0 0 1 56 0)" fill="#00B14F" fill-opacity="0.28" stroke="#90B8F9" stroke-width="0.3"/>
+<path d="M24 28C24 30.2091 25.7909 32 28 32C30.2091 32 32 30.2091 32 28C32 25.7909 30.2091 24 28 24C25.7909 24 24 25.7909 24 28Z" fill="#2F88FC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 28C22 31.3137 24.6863 34 28 34C31.3137 34 34 31.3137 34 28C34 24.6863 31.3137 22 28 22C24.6863 22 22 24.6863 22 28ZM28 32C25.7909 32 24 30.2091 24 28C24 25.7909 25.7909 24 28 24C30.2091 24 32 25.7909 32 28C32 30.2091 30.2091 32 28 32Z" fill="#FDFDFD"/>
+</svg>
